@@ -1,0 +1,7 @@
+.NavigationItem {
+    display: block;
+}
+
+.NavigationItem a {
+    text-decoration: none;
+}
